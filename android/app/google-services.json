@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1080458873674",
+    "project_id": "audiobook-17d1d",
+    "storage_bucket": "audiobook-17d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080458873674:android:4f5ba5b01b7bcd1d83cfb3",
+        "android_client_info": {
+          "package_name": "com.example.audio_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080458873674-549jiapnj6ibp4eg54c55tmeloglupfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15kDNvVflX2hCXyAZw6BhV9eILRpVjsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080458873674-549jiapnj6ibp4eg54c55tmeloglupfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080458873674-utsp462ph87s84optk1sches5dinvvud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.gita.audioBookMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080458873674:android:9cadb3f9847d461983cfb3",
+        "android_client_info": {
+          "package_name": "uz.gita.audio_book_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080458873674-ihc8glt3kkngnah87jm0msa48l93kodu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.gita.audio_book_mobile_app",
+            "certificate_hash": "3151024a0ee508ff91b3ed15fe9e3a1b7f087102"
+          }
+        },
+        {
+          "client_id": "1080458873674-549jiapnj6ibp4eg54c55tmeloglupfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC15kDNvVflX2hCXyAZw6BhV9eILRpVjsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080458873674-549jiapnj6ibp4eg54c55tmeloglupfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080458873674-utsp462ph87s84optk1sches5dinvvud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uz.gita.audioBookMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
